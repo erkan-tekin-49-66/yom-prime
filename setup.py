@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 setup
-    (name="yom-prime",
+    (name="yom_prime",
     version="0.1.0",
     author="Erkan Tekin",
     description="YOM Prime Theorem - pi(x)=x/(ln(x)-6/7) - 6/7 correction",
